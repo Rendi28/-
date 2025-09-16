@@ -1,4 +1,4 @@
-# Euro-Area Banking Case Study III (2005–2023)
+# Eurozone Banking Panel Analysis (2005–2023)
 
 This repository contains the third case study on euro-area banking, analyzing the relationship between **monetary policy rates**, **lending volumes**, and **bank performance indicators**.  
 The dataset covers monthly observations from **January 2005 to December 2023**, using sources from the **ECB Statistical Data Warehouse** and the **BankFocus Database**.
